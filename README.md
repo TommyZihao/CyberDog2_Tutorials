@@ -1,8 +1,8 @@
-# 小米CyberDog2仿生四足机器人教程
+# 小米CyberDog2仿生四足机器人教程-同济子豪兄
 
 ## 主讲人
 
-张子豪，B站UP主“同济子豪兄”，23万粉丝，视频累计播放量超过1200万，四次登上热搜。
+张子豪，B站UP主“同济子豪兄”，24万粉丝，视频累计播放量超过1300万，四次登上热搜。从Mi 3到小米14 Pro，十年资深米粉。
 
 https://space.bilibili.com/1900783
 
@@ -10,11 +10,25 @@ https://space.bilibili.com/1900783
 
 代表作：精读AI论文、斯坦福CS231N计算机视觉中文精讲、CS224W图神经网络中文精讲、“两天搞定图像分类、目标检测、图像分割、关键点检测毕业设计”、可解释机器学习公开课、OpenMMLab代码实战。
 
-## 第一部分：铁蛋2，你的梦中情狗
+## 官方文档
+
+CyberDog2四足仿生机器人：https://www.mi.com/cyberdog2
+
+CyberGear微电机：https://www.mi.com/cyber-gear
+
+CyberDog2开源文档：https://miroboticslab.github.io/blogs/#/
+
+CyberDog2源码：https://github.com/MiRoboticsLab/cyberdog_ws
+
+CyberDog2三维机械图纸：https://github.com/MiRoboticsLab/Cyberdog_MD
+
+CyberGear微电机资源包：https://web.vip.miui.com/page/info/mio/mio/detail?postId=40233100&app_version=dev.20051&ref=share
+
+## 第一部分：从机器狗到无人车，和未来做朋友
 
 解读雷军发布会
 
-从机器狗到无人车的技术栈：感知、规划、控制
+无人驾驶技术栈：感知、规划、控制
 
 送盲人一只「电子导盲犬」，能代替真狗吗？！：https://www.bilibili.com/video/BV1AH4y197m6
 
@@ -24,7 +38,7 @@ https://space.bilibili.com/1900783
 
 CyberDog2购买
 
-安全注意事项
+运输及使用安全注意事项
 
 CyberDog2开箱、下载手机APP、联网、连接遥控器、升级固件
 
@@ -52,11 +66,11 @@ CyberDog2传感器深入介绍：AI交互相机、RGB相机、TOF、超声波传
 
 CyberDog2机械结构三维图纸
 
-CyberGear电机三维图纸
+CyberGear微电机三维图纸
 
 CyberDog2主板及子板
 
-## 第五部分：我的狗子我做主：开发者模式解锁
+## 第五部分：我的狗子我做主-开发者模式解锁
 
 申请开通开发者模式，解锁
 
@@ -68,7 +82,7 @@ CyberDog2主板及子板
 
 彩蛋：小米第一代手机的“刷机”趣闻
 
-## 第六部分：私人订制的专属铁蛋
+## 第六部分：私人订制-各行各业的专属铁蛋
 
 接入运动控制API
 
